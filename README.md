@@ -7,7 +7,7 @@ Mon portfolio data — **[elias-blaunay.github.io](https://elias-blaunay.github.
 ## À propos
 
 Je suis **Elias BLAUNAY**, futur Business Data Analyst basé à Nancy.  
-J'utilise ce site pour présenter mes projets data, mes compétences techniques et mes coordonnées dans le cadre de ma recherche d'alternance (RNCP Niv. 7 — Ecole des Mines de Paris).
+J'utilise ce site pour présenter mes projets data, mes compétences techniques et mes coordonnées dans le cadre de ma recherche d'alternance au sein de l'école LIORA (RNCP Niv. 7 — Ecole des Mines de Paris).
 
 ## Projets présentés
 
