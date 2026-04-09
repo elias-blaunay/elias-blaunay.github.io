@@ -14,7 +14,6 @@ J'utilise ce site pour présenter mes projets data, mes compétences techniques 
 | Projet | Stack | Lien |
 |--------|-------|------|
 | Dashboard des prix du SP95 (54) | BigQuery · SQL · Looker Studio | [Voir le repo](https://github.com/elias-blaunay/sp95-meurthe-moselle) |
-| *(en cours)* | — | — |
 
 D'autres projets sont en cours de réalisation et seront ajoutés prochainement.
 
