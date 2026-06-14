@@ -7,7 +7,7 @@
 ## À propos
 
 Je suis **Elias BLAUNAY**, futur Business Data Analyst basé à Nancy.  
-J'utilise ce site pour présenter mes projets data, mes compétences techniques et mes coordonnées dans le cadre de ma recherche d'alternance chez **LIORA** (ex-DataScientest) — RNCP Niv. 7 — Partenaire de l'École des Mines de Paris.
+J'utilise ce site pour présenter mes projets data, mes compétences techniques et mes coordonnées dans le cadre de ma recherche d'alternance chez **NEXA** — RNCP Niv. 7 — Chef de Projet Data et Intelligence Articielle.
 
 Disponible en alternance dès **septembre 2026 · 2 ans**.
 
@@ -21,7 +21,7 @@ D'autres projets sont en cours de réalisation et seront ajoutés prochainement.
 
 ## Compétences techniques
 
-**Langages** : SQL
+**Langages** : SQL · Python
 
 **Visualisation** : Looker Studio · Power BI
 
